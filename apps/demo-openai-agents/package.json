@@ -9,7 +9,7 @@
     "evals:fail": "node ./scripts/run-evals.mjs --fail"
   },
   "dependencies": {
-    "@openai/agents": "^0.8.5",
+    "@openai/agents": "^0.21.0",
     "@vitest-evals/harness-openai-agents": "workspace:*",
     "vitest-evals": "workspace:*",
     "zod": "^4.3.6"

@@ -36,7 +36,7 @@
   "homepage": "https://github.com/getsentry/vitest-evals#readme",
   "description": "",
   "devDependencies": {
-    "@ai-sdk/openai": "^3.0.48",
+    "@ai-sdk/openai": "^3.0.139",
     "@biomejs/biome": "^1.9.4",
     "@types/node": "^25.5.0",
     "@vitest/coverage-v8": "^5.1.0",
